@@ -14,7 +14,7 @@
 # 二、机器学习的第二波浪潮
 ## （一）知识表示方式（Knowledge Representation,KR）  
 &emsp;&emsp;即将大千世界中的知识转换成**便于计算机理解的**方式，以便让计算机更容易地理解信息。例如一个语义的理解在计算机中的表述方式如下图所示：
-&emsp;&emsp;&emsp;&emsp;！[image](/images/yy.png)  
+&emsp;&emsp;&emsp;&emsp;![image](/images/yy.png)  
 ## (二）符号关联问题（Symbol Grouding Problem）  
 &emsp;&emsp;即只能根据输入到机器内的知识字典进行对比而并不是真正的理解。这个问题与框架问题并行也是一大难题之一。  
 &emsp;&emsp;因此，机器获取知识以下结论，第一波机器学习，是使得机器按照人们定制的规则进行运作；第二波机器学习，是使得机器结合所输入的知识对人们提出的问题作出响应。  
